@@ -43,11 +43,10 @@ The translation of al-Khwarizmi’s work into Latin in 12th-century Spain sparke
 
 ### Approximate Timeline
 
-Year (Approx)  |  Event<br />
-c. 780 CE      |  Born in Khwarazm (Uzbekistan).<br />
-Early 800s     |  Appointed as a scholar at the House of Wisdom in Baghdad.<br />
-c. 820 CE      |  Published his foundational work on Algebra.<br />
-c. 830 CE      |  Published The Image of the Earth and astronomical tables.<br />
-c. 850 CE      |  Passed away in Baghdad.
+c. 780 CE - Born in Khwarazm (Uzbekistan).<br />
+Early 800s - Appointed as a scholar at the House of Wisdom in Baghdad.<br />
+c. 820 CE - Published his foundational work on Algebra.<br />
+c. 830 CE - Published The Image of the Earth and astronomical tables.<br />
+c. 850 CE - Passed away in Baghdad.
 
 In the modern world, every time we use a search engine, solve for x, or use a GPS, we are interacting with the legacy of al-Khwarizmi.
