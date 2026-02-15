@@ -1,7 +1,8 @@
 # Muhammad ibn Musa al-Khwarizmi: A Historical Record
 <img src="alk.jpg" width="150" align="left" style="margin-right: 15px;">
-Muhammad ibn Musa al-Khwarizmi (c. 780 – c. 850 CE) was a Persian mathematician, astronomer, and polymath whose work during the Islamic Golden Age provided the literal vocabulary and framework for modern mathematics.</p>
-Writing primarily in Arabic - the scientific lingua franca of the era - he bridged the gap between ancient Eastern wisdom and the eventual European Renaissance.</p>
+Muhammad ibn Musa al-Khwarizmi (c. 780 – c. 850 CE) was a Persian mathematician, astronomer, and polymath whose work during the Islamic Golden Age provided the literal vocabulary and framework for modern mathematics.
+
+Writing primarily in Arabic - the scientific lingua franca of the era - he bridged the gap between ancient Eastern wisdom and the eventual European Renaissance.
 
 He was born in Khwarazm (modern-day Uzbekistan) and spent his professional life in Baghdad at the House of Wisdom (Bayt al-Hikma). This institution was not merely a library, but a world-class research center where scholars synthesized Greek, Persian, and Indian knowledge into a new, unified scientific tradition.
 
