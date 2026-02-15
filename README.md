@@ -13,8 +13,6 @@ Al-Khwarizmi was born around 780 CE in the region of Khwarazm (in present-day Uz
 
 The House of Wisdom brought together scholars from different cultures and traditions to translate, preserve, and expand upon Greek, Persian, and Indian knowledge. Within this environment, al-Khwarizmi developed the works that would make him one of the most influential mathematicians in history.
 
-<br clear="left"/>
-
 ---
 
 ## Contributions to Mathematics
@@ -66,3 +64,5 @@ He is widely regarded as:
 Al-Khwarizmi’s influence extends far beyond his lifetime. Modern mathematics, engineering, cryptography, and computer programming all trace part of their intellectual heritage back to his work.
 
 More than a millennium later, his ideas remain embedded in the structure of modern science and technology.
+
+<br clear="left"/>
