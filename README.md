@@ -5,7 +5,7 @@ Writing primarily in Arabic - the scientific lingua franca of the era - he bridg
 
 He was born in Khwarazm (modern-day Uzbekistan) and spent his professional life in Baghdad at the House of Wisdom (Bayt al-Hikma). This institution was not merely a library, but a world-class research center where scholars synthesized Greek, Persian, and Indian knowledge into a new, unified scientific tradition.
 
-## 1. The Father of Algebra
+## The Father of Algebra
 
 Al-Khwarizmi’s most defining contribution was his book Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala (The Compendious Book on Calculation by Completion and Balancing).
 
@@ -16,7 +16,7 @@ Before al-Khwarizmi, mathematics was often a series of specific solutions to spe
 
 While he did not use modern symbolic notation (like x or y), he solved quadratic equations using geometric proofs, literally completing the square by drawing areas to find the value of the unknown.
 
-## 2. Arithmetic and the Birth of Algorithms
+## Arithmetic and the Birth of Algorithms
 
 Al-Khwarizmi is the reason the Western world moved away from the cumbersome Roman numeral system.
 
@@ -24,14 +24,14 @@ Al-Khwarizmi is the reason the Western world moved away from the cumbersome Roma
 * Etymology of Algorithm: When his works were translated into Latin in the 12th century, his name was rendered as Algoritmi. Over time, this became the word algorithm, referring to the step-by-step procedures he championed for solving mathematical operations.
 * Decimal Notation: His work Algoritmi de numero Indorum (Al-Khwarizmi on the Hindu Art of Reckoning) laid the groundwork for the arithmetic we use in every checkbook and computer chip today.
 
-## 3. Geography and Astronomy
+## Geography and Astronomy
 
 Beyond the chalkboard, al-Khwarizmi was a pioneer of the physical world:
 
 * Mapping the World: In Kitab Surat al-Ard (The Image of the Earth), he corrected the geographical errors of the Greek scholar Ptolemy. He provided more accurate coordinates for the Mediterranean and helped organize a massive project to calculate the circumference of the Earth.
 * The Stars: He compiled the Zij al-Sindhind, a set of astronomical tables that included calculations for the movements of the sun, moon, and the five planets known at the time. These tables were essential for timekeeping and navigation for centuries.
 
-## 4. Historical Impact and Legacy
+## Historical Impact and Legacy
 
 The translation of al-Khwarizmi’s work into Latin in 12th-century Spain sparked a mathematical revolution in Europe. Without his systematization of logic, the Scientific Revolution and the development of the computer might have been delayed by centuries.
 
