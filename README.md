@@ -7,7 +7,7 @@ Muhammad ibn Musa al-Khwarizmi (c. 780 – c. 850 CE) was a Persian mathematicia
 
 ---
 
-# Early Life and Background
+## Early Life and Background
 
 Al-Khwarizmi was born around 780 CE in the region of Khwarazm (in present-day Uzbekistan). He later moved to Baghdad, where he worked at the House of Wisdom (Bayt al-Hikma), a major center of learning under the Abbasid Caliphate.
 
