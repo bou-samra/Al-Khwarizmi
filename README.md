@@ -1,8 +1,10 @@
 # Muhammad ibn Musa al-Khwarizmi  
 ### A Historical Record
 
-Muhammad ibn Musa al-Khwarizmi (c. 780 – c. 850 CE) was a Persian mathematician, astronomer, and scholar of the Islamic Golden Age. His work laid the foundations for algebra and introduced mathematical concepts that continue to shape science, engineering, and computer science today.
+<img src="portrait-placeholder.jpg" alt="Portrait of Muhammad ibn Musa al-Khwarizmi" width="220" align="left" style="margin-right: 20px; margin-bottom: 10px;" />
 
+Muhammad ibn Musa al-Khwarizmi (c. 780 – c. 850 CE) was a Persian mathematician, astronomer, and scholar of the Islamic Golden Age. His work laid the foundations for algebra and introduced mathematical concepts that continue to shape science, engineering, and computer science today.
+<br clear="left"/>
 ---
 
 ## Early Life and Background
