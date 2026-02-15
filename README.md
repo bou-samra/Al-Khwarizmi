@@ -38,12 +38,12 @@ The translation of al-Khwarizmi’s work into Latin in 12th-century Spain sparke
 ### Key Distinctions
 
 * A Founder of Algebra: He moved math from specific cases to general rules.
-* A Pioneer of Logic: He introduced the concept of the algorithm—the core of all software.
+* A Pioneer of Logic: He introduced the concept of the algorithm - the core of all software.
 * A Bridge of Cultures: He blended Indian numerals, Greek geometry, and Persian logic into a single system.
 
 ### Approximate Timeline
 
-Year (Approx) | Event
+Year (Approx) | Event<br />
 c. 780 CE | Born in Khwarazm (Uzbekistan).<br />
 Early 800s | Appointed as a scholar at the House of Wisdom in Baghdad.<br />
 c. 820 CE | Published his foundational work on Algebra.<br />
